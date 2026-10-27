@@ -58,4 +58,3 @@ Original source: World Bank Open Data, https://data.worldbank.org
 ````
 ````
 
-The block above has one problem. The last line of the README ends with a stray closing fence when you copy it. Copy only up to the line "Original source: World Bank Open Data, https://data.worldbank.org" and leave off the lone ``` line right after it.
